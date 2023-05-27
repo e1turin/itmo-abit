@@ -1,2 +1,9 @@
 # e1turin.github.io
-github pages repo
+
+Гитхаб аккаунт студента ИТМО
+
+## Для Абитуриентов
+
+- [FAQ](/itmo-abit)
+
+
