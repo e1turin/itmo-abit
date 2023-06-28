@@ -1,3 +1,0 @@
-> ПИиКТ = SE&CT
-
-kekekekeke
