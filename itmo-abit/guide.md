@@ -1,4 +1,4 @@
-[⬅Главная](./README.md)
+[⬅Главная](./README)
 
 Будет пеработка следующего гайда от [@yank0vy3rdna](https://github.com/yank0vy3rdna)
 
