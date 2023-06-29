@@ -19,7 +19,9 @@
 - раньше были кафедры, но потом их упразднили и оставили мегафакультеты 
 
 Схематично можно изобразить так:
-<img src="res/itmo-structure.png"/>
+<div style="display: flex; width: 100%, justify-content: space-around"> 
+<img src="res/itmo-structure.png" style="width: 50%;"/>
+</div>
 
 ### 1.2. 
 > Что такое ВТ?
