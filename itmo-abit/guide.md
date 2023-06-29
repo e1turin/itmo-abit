@@ -1,4 +1,4 @@
-[⬅Главная](./README)
+[⬅Полезная информация](./index.md)
 
 Будет пеработка следующего гайда от [@yank0vy3rdna](https://github.com/yank0vy3rdna)
 
