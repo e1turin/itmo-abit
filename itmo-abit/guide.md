@@ -1,6 +1,6 @@
 [⬅Полезная информация](./index)
 
-Будет пеработка следующего гайда от [@yank0vy3rdna](https://github.com/yank0vy3rdna)
+Будет пеработка следующего устаревшего гайда от [@yank0vy3rdna](https://github.com/yank0vy3rdna)
 
 https://yank0vy3rdna.github.io/itmo-faq/
 
