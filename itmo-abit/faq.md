@@ -394,7 +394,6 @@ PS. смотри [гайд](./guide).
 [[--TODO]]
 <div style="display: flex; width: 100%; justify-content: space-around; padding: 10px; border: solid 1px darkgray; border-radius: 10px;"> 
 	<img src="res/botat.jpg" style="width: 80%;"/>
-	(мем)
 </div>
 
 
