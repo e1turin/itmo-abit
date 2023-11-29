@@ -39,7 +39,9 @@
 > Что такое ВТ?
 
 *ВТ* (Вычислительная техника) — название кафедры, которая раньше существовала; сейчас употребляется для обозначается для группы обр. программ направленных на углубленное изучение работы компьютера, условно ~ СППО + ИВТ.
-- см. [стикеры в тг](https://t.me/addstickers/trueVT).
+<div style="display: flex; width: 100%; justify-content: space-around; padding: 10px; border: solid 1px darkgray; border-radius: 10px;"> 
+	<img src="res/struct-itmo.png" style="width: 80%;"/>
+</div>
 
 ### 1.3.
 > Куда я попаду, подавая заявление на выбранное направление?
