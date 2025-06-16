@@ -41,7 +41,7 @@
 
 Схематично можно изобразить так: 
 <div style="display: flex; width: 100%; justify-content: space-around; padding: 10px; border: solid 1px darkgray; border-radius: 10px;">
-    <img src="res/itmo-structure.png" style="width: 80%;"/>
+    <img src="res/itmo-departments.png" style="width: 80%;"/>
 </div>
 
 ### 1.2. 
@@ -52,7 +52,7 @@
 сейчас употребляется для обозначается для группы обр. программ направленных на
 углубленное изучение работы компьютера, условно ~ СППО + ИВТ. 
 <div style="display: flex; width: 100%; justify-content: space-around; padding: 10px; border: solid 1px darkgray; border-radius: 10px;">
-    <img src="res/struct-itmo.png" style="width: 80%;"/>
+    <img src="res/itmo-struct.png" style="width: 80%;"/>
 </div>
 
 ### 1.3.
